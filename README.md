@@ -3,10 +3,10 @@
 Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> <br> <br>
 - This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on **something cool :wink:**
-- 👯 &nbsp;I’m looking to collaborate **with other ML Engineer**
-- 🌱 &nbsp;I’m currently learning **Artificial Intelligence, Machine Learning & Data Science**
-- 💬 &nbsp;Ask me about anything related to **Html/Css/Javascript/React/Php or Python/Django/Flask**
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 👯 &nbsp;I’m looking to collaborate with other ML Engineer
+- 🌱 &nbsp;I’m currently learning Artificial Intelligence, Machine Learning & Data Science
+- 💬 &nbsp;Ask me about anything related to Html/Css/Javascript/React/Php or Python/Django/Flask
 - 👨‍💻 &nbsp;Read more about my projects at [rajaportfolio.com](https://www.raja.com/#portfolio)
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
