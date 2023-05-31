@@ -34,7 +34,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
 
 <h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
-  <samp>I am a Full Stack Developer with 5+ years of experience in developing enterprise applications and open-source software.And a highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  <samp>I am a Full Stack Developer with 5+ years of experience in developing enterprise applications and open-source software. And a highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
  <img src="https://komarev.com/ghpvc/?username=zulqarnain-raja&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnain-raja"/>
