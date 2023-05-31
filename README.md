@@ -52,10 +52,8 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/zulqarnain-raja)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/zulqarnain-raja)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
-[![Clojure](https://img.shields.io/badge/clojure-black?style=for-the-badge&logo=clojure)](https://github.com/zulqarnain-raja)
 [![Php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/zulqarnain-raja)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/zulqarnain-raja)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/zulqarnain-raja)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/zulqarnain-raja)
 
 ### ML/DL
