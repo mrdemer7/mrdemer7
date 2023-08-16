@@ -81,7 +81,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
  <hr>
  <!------------------------------------------------ Language Table --------------------------------------------------------->
 
-<p><img align="center" width="50% height="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdemer7&show_icons=true&locale=en&layout=compact" alt="zulqarnain-raja" /></p>
+<p><img align="center" width="50% height="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdemer7&show_icons=true&locale=en&layout=compact" alt="mrdemer7" /></p>
 
   
  <!--------------------------------------------------- details show ---------------------------------------------------------->
