@@ -105,7 +105,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
 
  <!------------------------------------------------ Blogs --------------------------------------------------------->
 
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
   
  <!------------------------------------------------ My Repos --------------------------------------------------------->
