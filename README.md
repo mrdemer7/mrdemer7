@@ -100,7 +100,6 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
   </a>
   <p><img align="center" width="50% height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&langs_count=8" alt="mrdemer7" /></p>
 </p>
- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/mrdemer7/github-readme-stats)
 </details>
  <hr>
 
