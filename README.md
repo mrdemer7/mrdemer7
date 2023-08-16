@@ -80,7 +80,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
  <hr>
  <!------------------------------------------------ Language Table --------------------------------------------------------->
 
- <p><img align="center" width="50% height="30%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=donut)](https://github.com/mrdemer7/github-readme-stats)" alt="mrdemer7" /></p>
+ <p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=donut)](https://github.com/mrdemer7/github-readme-stats)</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=donut-vertical)](https://github.com/mrdemer7/github-readme-stats)
