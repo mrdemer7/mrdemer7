@@ -80,7 +80,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
  <hr>
  <!------------------------------------------------ Language Table --------------------------------------------------------->
 
-<p><![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
