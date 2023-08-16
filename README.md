@@ -21,7 +21,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
 <a href="https://www.facebook.com/profile.php?id=100010333357127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zulqarnain raja" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/zulqarnain-raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulqarnain raja" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/zulqarnainraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100081255115995&mibextid=ZbWKwL" target="blank"><img align="center" src="<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">" alt="zulqarnain raja" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100081255115995&mibextid=ZbWKwL" target="blank"><img align="center" src="<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="zulqarnain raja" height="30" width="40" /></a>
 
 📊 &nbsp;**This week I spent my time on**
 
