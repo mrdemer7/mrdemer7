@@ -82,10 +82,10 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
 
  <p><img align="center" width="50% height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=compact" alt="mrdemer7" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=donut)](https://github.com/mrdemer7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=donut-vertical)](https://github.com/mrdemer7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7)](https://github.com/mrdemer7/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=compact)
   
  <!--------------------------------------------------- details show ---------------------------------------------------------->
