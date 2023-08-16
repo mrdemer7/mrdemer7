@@ -99,7 +99,6 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrdemer7&theme=transparent" />
   </a>
   <p><img align="center" width="50% height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&layout=compact" alt="mrdemer7" /></p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </details>
  
