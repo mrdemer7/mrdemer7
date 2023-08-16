@@ -97,9 +97,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
   <a href="https://github.com/mrdemer7">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrdemer7&theme=transparent" />
   </a>
-  <a href="https://github.com/mrdemer7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+ <p><img align="center" width="50% height="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrdemer7&show_icons=true&locale=en&layout=compact" alt="mrdemer7" /></p>
 </p>
 </details>
  
