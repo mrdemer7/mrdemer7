@@ -88,17 +88,17 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
  
 <details>
 <p align="center">
-  <a href="https://github.com/zulqarnain-raja">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulqarnain-raja&theme=transparent" />
+  <a href="https://github.com/mrdemer7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrdemer7&theme=transparent" />
   </a>
-  <a href="https://github.com/zulqarnain-raja">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-raja&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/mrdemer7">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdemer7&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/zulqarnain-raja">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulqarnain-raja&theme=transparent" />
+  <a href="https://github.com/mrdemer7">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrdemer7&theme=transparent" />
   </a>
-  <a href="https://github.com/zulqarnain-raja">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-raja&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  <a href="https://github.com/mrdemer7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrdemer7&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
