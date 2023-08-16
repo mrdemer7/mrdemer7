@@ -18,7 +18,7 @@ Hi there <a href="https://www.facebook.com/profile.php?id=100010333357127"><img 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zulqarnain raja" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010333357127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zulqarnain raja" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010333357127" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zulqarnain raja" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/zulqarnain-raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulqarnain raja" height="30" width="40" /></a>
 <a href="https://www.buymeacoffee.com/zulqarnainraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
