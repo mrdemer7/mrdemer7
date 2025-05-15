@@ -66,12 +66,12 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrdemer7&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdemer7&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zulqarnain-git&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-git&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdemer7&theme=github-dark" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulqarnain-git&theme=github-dark" width="90%"/>
 
 ---
 
