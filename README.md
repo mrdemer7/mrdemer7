@@ -16,7 +16,7 @@
 - 🌱 **Learning:** Advanced ML techniques & cloud-native architectures
 - 💡 **Expertise:** Full-stack development (Django/React) & AI integration
 - 🤝 **Collaborate:** On impactful open-source ML projects
-- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/zulqarnain-raja) | [Portfolio](https://rajaportfolio.com)
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/zulqarnain-janjua) | [Portfolio](https://rajaportfolio.com)
 
 > *"Where innovation meets execution - one commit at a time"*
 
@@ -46,7 +46,7 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zulqarnain-raja&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrdemer7&show_icons=true&theme=radical&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdemer7&theme=radical" />
 </p>
 
