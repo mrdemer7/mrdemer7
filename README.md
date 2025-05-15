@@ -35,6 +35,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge\&logo=numpy)](https://github.com/mrdemer7)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge\&logo=pandas)](https://github.com/mrdemer7)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
