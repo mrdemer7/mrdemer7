@@ -82,16 +82,16 @@
 
 ---
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-git&layout=compact&theme=dark)](https://github.com/zulqarnain-git)
+
+## My Coding Languages
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-git&hide=html,css&layout=compact) 
+
+---
+
 ## 🕒 Weekly Development Focus
 ```text
 AI/ML Research   ████████████████████░░░   85% 
 Web Development  ████████████░░░░░░░░░░░   50%
 DevOps           ███████████████░░░░░░░░   65%
 Open Source      ██████████████████░░░░░   80%
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-git&layout=compact&theme=dark)](https://github.com/zulqarnain-git)
-
-## My Coding Languages
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-git&hide=html,css&layout=compact)
