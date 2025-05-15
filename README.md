@@ -1,4 +1,4 @@
-# 👨💻 Zulqarnain Janjua
+# 💻 Zulqarnain Janjua
 **Full Stack Developer | AI/ML Specialist | Open Source Contributor**  
 *Transforming ideas into scalable solutions with 5+ years of experience*
 
