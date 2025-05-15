@@ -1,6 +1,5 @@
-# 👨‍💻💻 Zulqarnain Janjua
-**Full Stack Developer | AI/ML Specialist | Open Source Contributor**  
-*Transforming ideas into scalable solutions with 5+ years of experience*
+# 💻 Full Stack Developer | AI/ML Specialist | Open Source Contributor 
+*Transforming ideas into scalable solutions with 5+ years of experience I am a Full Stack Developer in building enterprise-grade applications and contributing to open-source software. A highly skilled and resourceful programmer, I bring comprehensive expertise in the entire software development lifecycle. I possess a deep understanding of the technologies essential for designing, developing, and deploying scalable and highly available applications, along with their supporting networks and infrastructure.*
 
 <a href="https://www.facebook.com/profile.php?id=100010333357127">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
