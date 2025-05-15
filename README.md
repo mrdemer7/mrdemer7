@@ -80,12 +80,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zulqarnain-raja&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnain-raja" />  </p>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-git&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zulqarnain-git)](https://github.com/zulqarnain-git/github-readme-stats)
-
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-git&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zulqarnain-git)](https://github.com/zulqarnain-git/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/zulqarnain-git/github-readme-stats)
 
 ---
 
