@@ -47,11 +47,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zulqarnain-raja&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-raja&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdemer7&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zulqarnain-raja&theme=github-dark" width="90%"/>
+
+  🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/zulqarnain-janjua"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:contact@rajaportfolio.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://dev.to/zulqarnain-raja"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> </a> <a href="https://rajaportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zulqarnain-raja&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnain-raja" /> <a href="https://github.com/zulqarnain-raja?tab=followers"> <img src="https://img.shields.io/github/followers/zulqarnain-raja?label=Followers&style=social" /> </a> </p> ```
 </p>
 
 ---
