@@ -80,8 +80,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zulqarnain-raja&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnain-raja" />  </p>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/zulqarnain-git/github-readme-stats)
-
 ---
 
 ## 🕒 Weekly Development Focus
